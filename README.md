@@ -1,4 +1,4 @@
-# Akinator 2.0
+# Akinator 2.0.
 
 ## Problema a resolver
 El problema consiste en la indecisión a la hora de elegir la opción ganadora en los sorteos de combinaciones como Euromillones o Bonoloto.
