@@ -13,20 +13,3 @@ Necesitaremos de un servidor donde vayamos almacenando y procesando los datos qu
 
 ## Lógica de negocio
 Se basa en donde un usuario pueda, sin analizar él mismamente todos los datos; auyudarse de la aplicación para elegir la combinación ganadora de los distintos sorteos y pueda observar que números tienen mayor probabilidad de salir y distintas funcionalidades.
-
-## Lista de comprobación
-
-[x] ¿Se trata de un problema real del que se tenga conocimiento personal?
-Sí debido a que la gestión de las combinaciones es muy complicada de manera manual por lo que aplicando los modelos previamente mencionados podemos hacerlo de manera más eficiente.
-
-[x] ¿Se trata de un problema que para solucionar requiera el despliegue de una aplicación en la nube?
-Sí porque hemos de desplegar un servidor accesible mediante la nube.
-   
-[x] ¿La solución requiere una cierta cantidad de lógica de negocio, en vez solucionarse sólo almacenando y buscando?
-Sí debido a que hay que aplicar modelos y algoritmos que nos permitan crear combinaciones ganadoras.
-
-[x] ¿Se ha incluído la configuración del repositorio y se ha enlazado desde el README`?
-Hemos procedido con la configuración de las claves privada y públicas y las hemos enlazado a nuestro GitHub.
-
-[x] ¿Tienes todos los datos necesarios para poder resolver el problema, o vas a requerir que el usuario los introduzca?
-Sí, tenemos todos los datos necesarios debido a que son datos públicos.
