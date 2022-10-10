@@ -1,15 +1,15 @@
-# Akinator 2.0.
+# Quinilucky
 
 ## Problema a resolver
-El problema consiste en la indecisión a la hora de elegir la opción ganadora en los sorteos de combinaciones como Euromillones o Bonoloto.
+El problema consiste en la indecisión a la hora de elegir la opción ganadora en los sorteos públicos relativos al sector del fútbol como la quiniela y el quinigol.
 
 ## Solución propuesta
-Consiste en crear una aplicación donde para los diferentes sorteos actuales más jugados se pueda conseguir la combinación más cercana a la acertada mediante modelos estadísticos y distintos algoritmos. El funcionamiento sería recabar los distintos datos que encontramos en páginas públicas de la Administración y poder aplicar algún modelo de tal manera que podamos hallar la solución óptimo o en otro caso la más cercana.
+Consiste en crear una aplicación donde se pueda conseguir la combinación más cercana a la acertada mediante la recogida de distintos datos de los equipos, llevar a cabo una heurística que nos permita plasmar porcentajes de cada decisión y ajustar al presupuesto del usuario la mejor combinación. Para recabar los datos hemos de entrar en distintas páginas donde se encuentren los datos y guardarlos en nuestras estructuras de datos, aplicar el algoritmo y mostrar los resultados en una página web.
 
-Se trata de una solución que mejora la situación actual ya que tantas combinaciones ya salidas podrían darnos una idea de cuál puede ser la siguiente combinación.
+Se trata de una solución que mejora la situación actual ya que la amplitud de datos que no se tienen en cuenta es una variable importante a la hora de la toma de decisiones.
 
 ## ¿Por qué en la nube?
 Necesitaremos de un servidor donde vayamos almacenando y procesando los datos que van saliendo continuamente, además de mostrar nuestras potenciales combinaciones ganadoras.
 
 ## Lógica de negocio
-Se basa en donde un usuario pueda, sin analizar él mismamente todos los datos; auyudarse de la aplicación para elegir la combinación ganadora de los distintos sorteos y pueda observar que números tienen mayor probabilidad de salir y distintas funcionalidades.
+Se basa en donde un usuario pueda, sin analizar él mismamente todos los datos; ayudarse de la aplicación para elegir la combinación ganadora a partir de una lógica más racional y matemática y ajustar el presupuesto a una combinación donde te especifique número de columnas, dobles y triples, incluso elige 8.
