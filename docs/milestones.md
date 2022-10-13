@@ -2,7 +2,7 @@
 
 [[M0] Estructuras de datos para organizar los datos de cada equipo](https://github.com/LuisMart7/ProBusiness/milestone/1)
   
-Esta estructura de datos definirá los equipos participantes en la quiniela y el quinigol (equipos de Liga Santander y Liga Smartbank) y los datos asociados los mismos (número de partidos, goles a favor y en contra, estado de los jugadores, etc).   
+Esta estructura de datos definirá los equipos participantes en la quiniela y el quinigol (equipos de Liga Santander y Liga Smartbank) y los datos asociados los mismos (número de partidos, goles a favor y en contra, estado de los jugadores, etc) que permitirá al usuario comprobar los campos útiles para la posterior recomendación.
   
 [[M1] Algoritmo de sugerencia de la probabilidad del resultado](https://github.com/LuisMart7/ProBusiness/milestone/2)
   
