@@ -1,8 +1,8 @@
 # Historias de usuario
 <ul>
-  <li>[HU0] Javier López</li><br/><hr>
+  <li>[HU0] Javier López</li><br/>
   
-  Javier, recién acabadas las clases el viernes, tiene monedas sueltas y decide parar en una administración para jugar la mínima jugada de la quiniela (2 columnas con un valor de 1,50€). Como tiene tiempo antes de ir a su casa, decide apoyarse en nuestra aplicación con el fin de tener un mejor análisis del estado de los equipos y poder así acercarse lo máximo posible a una combinación ganadora.
+  Javier, recién acabadas las clases el viernes, tiene monedas sueltas y decide parar en una administración para jugar la mínima jugada de la quiniela (2 columnas con un valor de 1,50€). Como tiene tiempo antes de ir a su casa, decide apoyarse en nuestra aplicación con el fin de tener un mejor análisis del estado de los equipos y poder así acercarse lo máximo posible a una combinación ganadora e incluso decidir si quiere jugar más combinaciones debido a que los porcentajes de acierto son mayores que otras veces.
   
   <li>[HU1] Daniel Castro</li><br/>
   
