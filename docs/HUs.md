@@ -2,5 +2,5 @@ li {color: blue;}
 
 # Historias de usuario
 <ul>
-  <li>Javier</li>
+  <li color:blue>Javier</li>
 </ul>
