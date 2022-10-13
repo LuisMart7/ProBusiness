@@ -1,4 +1,6 @@
+li {color: blue;}
+
 # Historias de usuario
 <ul>
-  ## <li>Javier</li>
+  <li>Javier</li>
 </ul>
