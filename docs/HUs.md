@@ -1,3 +1,7 @@
+<style>
+  li {font-weight: bold;}  
+</style>
+
 # Historias de usuario
 <ul>
   <li>[HU0] Javier López</li>
