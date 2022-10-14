@@ -14,7 +14,7 @@ Necesitaremos de un servidor donde vayamos almacenando y procesando los datos qu
 ## Lógica de negocio
 Se basa en donde un usuario pueda, sin analizar él mismamente todos los datos; ayudarse de la aplicación para elegir la combinación ganadora a partir de una lógica más racional y matemática y ajustar el presupuesto a una combinación donde te especifique número de columnas, dobles y triples, incluso elige 8.
 
-## Enlaces adicionales
+## Enlaces adicionales del modelo
 
 [Personas](https://github.com/LuisMart7/ProBusiness/blob/Objetivo1/docs/personas.md)
 
