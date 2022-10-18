@@ -1,6 +1,6 @@
 # Milestones
 
-[[M0] Fichero que contiene estadísticas y datos para organizar los datos de cada equipo](https://github.com/LuisMart7/ProBusiness/milestone/1)
+[[M0] Muestra de estadísticas y datos para organizados por cada equipo](https://github.com/LuisMart7/ProBusiness/milestone/1)
   
 Se definirá un fichero que sea visible a los clientes donde se pueda analizar a los equipos participantes en la quiniela y el quinigol (equipos de Liga Santander y Liga Smartbank) y los datos asociados los mismos (número de partidos, goles a favor y en contra, estado de los jugadores, etc). Usaremos esos mismos datos para la realización del algoritmo de recomendación mostrando al cliente las estadística recabadas.
   
