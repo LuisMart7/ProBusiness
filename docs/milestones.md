@@ -2,7 +2,7 @@
 
 [[M0] Implementación del modelo de datos para cada equipo](https://github.com/LuisMart7/ProBusiness/milestone/1)
 
-Diseño de un modelo de datos basado en una estructura que nos permita organizar la información relevante de cada equipo atendiendo a distintos criterios como listado de partidos anteriores con información de los mismos, estado actual de la plantilla, competiciones en juego, posición en la liga, valor del equipo, etc. En consecuencia, tendremos el modelo implementado de manera que podremos calcular indicadores como porcentaje de victoria en función de los resultados anteriores, número de goles a favor y en contra, etc; stake de la apuesta dada basada en la compartiva de porcentajes de victoria, estado actual del equipo, etc; y, que posteriormente, añadiremos a dicha estructura completando el modelo de datos.
+Diseño de un modelo del problema basado en una estructura que nos permita organizar la información relevante de cada equipo atendiendo a distintos criterios como listado de partidos anteriores con información de los mismos, estado actual de la plantilla, competiciones en juego, posición en la liga, valor del equipo, etc. En consecuencia, tendremos el modelo implementado de manera que podremos calcular indicadores como porcentaje de victoria en función de los resultados anteriores, número de goles a favor y en contra, etc; stake de la apuesta dada basada en la compartiva de porcentajes de victoria, estado actual del equipo, etc; y, que posteriormente, añadiremos a dicha estructura completando el modelo de datos.
   
 [[M1] Algoritmo de sugerencia de la probabilidad del resultado](https://github.com/LuisMart7/ProBusiness/milestone/2)
   
