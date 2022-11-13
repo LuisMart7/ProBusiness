@@ -24,3 +24,6 @@ class Jugador:
 
     def incrementar_min_jugados(self, nuevos_min_jugados):
         self.minutos_jugados = nuevos_min_jugados
+
+    def get_minutos_jugador(self):
+        return self.minutos_jugados
