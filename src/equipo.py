@@ -1,10 +1,8 @@
-import jugador
-
 class Equipo:
 
     def __init__(self, nombre):
         self.nombre = nombre
-        self.jugadores = []
+        self.estadisticas_jugadores = []
         self.partidos_jugados = 0
         self.victorias = 0
         self.empates = 0
@@ -16,7 +14,7 @@ class Equipo:
         self.posicion_liga = 1
     
     def añadir_jugador(self, jugador):
-        self.jugadores.append(jugador)
+        self.estadisticas_jugadores.append(jugador)
 
     def get_victorias(self):
         return self.victorias
