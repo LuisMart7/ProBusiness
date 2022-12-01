@@ -1,2 +1,2 @@
-lenguaje: Python3
-entidad: [ProBusiness/src/estadisticas_jugador.py, ProBusiness/src/equipo.py, ProBusiness/src/quiniela.py]
+lenguaje: Python
+entidad: [ProBusiness/src/jornada.py, ProBusiness/src/competicion.py]

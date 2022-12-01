@@ -1,3 +1,0 @@
-## Entidades
-
-Según lo hablado en [#13](https://github.com/LuisMart7/ProBusiness/issues/13), se ha decidido realizar tres entidades para realizar la tarea. Es necesario tener una entidad equipo con la que tenemos los datos generales de como va el equipo en la temporada, incluyendo también el presupuesto y los jugadores. Los jugadores también poseen una entidad para tener un seguimiento detallado sobre cada uno y saber por ejemplo las amonestaciones que pueden tener durante la temporada. Por último, la entidad quiniela es donde se almacenan los porcentajes de probabilidades de victoria junto con los resultados de la quiniela anterior.
