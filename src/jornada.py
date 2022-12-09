@@ -4,7 +4,7 @@ from dataclasses import dataclass
 class Jornada:
 
     # Debe de ser un pair que incluya la clase enfrentamiento y el resultado (1, X o 2)
-    enfrentamiento : list
+    enfrentamientos : list
 
     def __init__(self):
         self.enfrentamiento = []
