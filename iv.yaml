@@ -1,2 +1,2 @@
 lenguaje: Python
-entidad: [ProBusiness/src/jornada.py, ProBusiness/src/competicion.py]
+entidad: jornada.py, competicion.py
