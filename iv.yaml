@@ -1,2 +1,2 @@
 lenguaje: Python
-entidad: jornada.py, competicion.py
+entidad: competiciones/jornada.py, competiciones/competicion.py
