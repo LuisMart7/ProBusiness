@@ -1,11 +1,12 @@
 from dataclasses import dataclass
+from typing import List
 from jornada import Jornada
 
 @dataclass
 class Competicion:
 
-    jornadas : list(Jornada)
-    clasificacion : dict
+    jornadas: List[Jornada]
+    clasificacion: dict
 
     def __init__(self):
         self.jornadas = []
